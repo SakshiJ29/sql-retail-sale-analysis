@@ -113,7 +113,4 @@ Orders grouped into:
 
 ## 🚀 Conclusion
 
-This project demonstrates a complete SQL workflow — from dataset creation to business analysis — making it ideal for portfolio presentation and interview discussions.
-
-
-
+This project demonstrates a complete SQL workflow — from dataset creation to business analysis.
